@@ -1,11 +1,11 @@
 <h1> Hi there 👋 My name is Vincent Chen </h1>
 
 ## About Me!
-<h4> I am currently studying Computer Science and Engineering @UC Merced </h4>
-<h4> I enjoy working on my personal project relating to fullstack development in my freetime </h4>
+<p> I am currently studying Computer Science and Engineering @UC Merced </p>
+<p> I enjoy working on my personal project relating to fullstack development in my freetime </p>
 
 ## My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,mongo,express,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,mongo,express,ts,tailwind,c+)](https://skillicons.dev)
 <!--
 **Vchen7629/Vchen7629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
