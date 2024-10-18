@@ -5,7 +5,7 @@
 <h4> I enjoy working on my personal project relating to fullstack development in my freetime </h4>
 
 ## My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,mongo,express,node)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,python,mongo,express,ts)](https://skillicons.dev)
 <!--
 **Vchen7629/Vchen7629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
