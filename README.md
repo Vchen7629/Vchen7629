@@ -1,10 +1,10 @@
 <h1> Hi there 👋 My name is Vincent Chen </h1>
 
 ## About Me!
-<h2> I am currently studying Computer Science and Engineering @UC Merced </h2>
+<h4> I am currently studying Computer Science and Engineering @UC Merced </h4>
 
 ## My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,React)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c++,react,node)](https://skillicons.dev)
 <!--
 **Vchen7629/Vchen7629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
