@@ -2,6 +2,7 @@
 
 ## About Me!
 <p> I am currently studying Computer Science and Engineering at UC Merced :D</p>
+<p> I am from the Bay Area! </p>
 <p> I enjoy working on my personal project relating to fullstack development in my freetime </p>
 
 ## My Tech Stack
