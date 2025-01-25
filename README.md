@@ -7,7 +7,7 @@
 
 ## My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,mongo,express,nodejs,tailwind,postman,vite,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,mongo,express,nodejs,docker,tailwind,postman,vite,cpp)](https://skillicons.dev)
 <!--
 **Vchen7629/Vchen7629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
