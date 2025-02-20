@@ -4,6 +4,7 @@
 <p> I am currently studying Computer Science and Engineering at UC Merced. :D</p>
 <p> I am from the Bay Area! </p>
 <p> I enjoy working on my personal project relating to fullstack development in my freetime. </p>
+<p> System design is pretty cool! </p>
 
 ## My Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp)](https://skillicons.dev)
