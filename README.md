@@ -7,11 +7,7 @@
 <p> System design is pretty cool! </p>
 
 ## My Tech Stack
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,html,css,python,cpp,react,mongo,express,nodejs,prometheus,grafana,ansible,terraform,aws,docker,githubactions,tailwind,postman,vite&perline=8" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp,react,mongo,express,nodejs,promtheus,grafana,ansible,terraform,aws,docker,githubactions,tailwind,postman,vite&perline=10)](https://skillicons.dev)
 
 
 <!--
