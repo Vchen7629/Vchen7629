@@ -7,7 +7,8 @@
 <p> System design is pretty cool! </p>
 
 ## My Tech Stack
-
+<h3>Programming Languages</h3>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=react,mongo,express,nodejs,docker,tailwind,postman,vite,cpp)](https://skillicons.dev)
 <!--
 <h3>Programming Languages</h3>
