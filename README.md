@@ -7,19 +7,7 @@
 <p> System design is pretty cool! </p>
 
 ## My Tech Stack
-#Programming Languages
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=react,mongo,express,nodejs,docker,tailwind,postman,vite,cpp)](https://skillicons.dev)
-<!--
-<h3>Programming Languages</h3>
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp)](https://skillicons.dev)
-<h3>Monitoring</h3>
-[![My Skills](https://skillicons.dev/icons?i=promtheus,grafana)](https://skillicons.dev)
-<h3>Infrastructure as Code Automation</h3>
-[![My Skills](https://skillicons.dev/icons?i=ansible,terraform)](https://skillicons.dev)
-<h3>Developer Tools</h3>
-[![My Skills](https://skillicons.dev/icons?i=react,mongo,express,nodejs,aws,docker,githubactions,tailwind,vite,postman)](https://skillicons.dev)
-!--?
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp,react,mongo,express,nodejs,promtheus,grafana,ansible,terraform,aws,docker,githubactions,tailwind,postman,vite&perline=6)](https://skillicons.dev)
 
 
 <!--
