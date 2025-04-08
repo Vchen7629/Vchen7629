@@ -7,7 +7,7 @@
 <p> System design is pretty cool! </p>
 
 ## My Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp,react,mongo,express,nodejs,prometheus,grafana,ansible,terraform,aws,docker,githubactions,tailwind,postman,vite,bash&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,python,cpp,react,elasticsearch,postgres,mongo,express,nodejs,kafka,prometheus,grafana,ansible,terraform,aws,docker,githubactions,tailwind,postman,vite,bash&perline=10)](https://skillicons.dev)
 
 
 <!--
