@@ -11,6 +11,8 @@
 
 - ⚡ Fun fact **I am from the Bay Area!**
 
+## Cool Stats!
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vchen7629&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="vchen7629" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vchen7629&show_icons=true&locale=en&theme=cobalt&hide_border=true" alt="vchen7629" /></p>
