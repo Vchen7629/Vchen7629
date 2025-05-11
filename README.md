@@ -1,7 +1,7 @@
 <h1> Hi there 👋 My name is Vincent Chen </h1>
 
 ## About Me!
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vchen7629&label=Profile%20views&color=0e75b6&style=flat" alt="vchen7629" /> </p>
+
 
 - 🔭 I’m currently working on [Cyphria](https://github.com/Vchen7629/Cyphria)
 
