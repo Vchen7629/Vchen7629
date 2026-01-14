@@ -3,7 +3,7 @@
 ## About Me!
 
 - 🔭 I’m currently working on [Cyphria](https://github.com/Vchen7629/Cyphria)
-- 🌱 I’m currently learning **Kubernetes, Kafka, NLP (Natural Language Processing)**
+- 🌱 I’m currently learning **Kubernetes, Airflow, Spark, NLP (Natural Language Processing)**
 -  📫 How to reach me **chenvincent7629@gmail.com**
 - ⚡ Fun fact **I am from the Bay Area!**
 
@@ -16,7 +16,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vchen7629&show_icons=true&locale=en&theme=cobalt&hide_border=true" alt="vchen7629" /></p>
 
 ## My Teck Stack
-[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,flask,python,bash,react,express,nodejs,kafka,ansible,terraform,aws,kubernetes,docker,githubactions,tailwind,postman,vite,postgres,mongo,redis,prometheus,grafana,ansible,terraform&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,html,css,flask,python,bash,react,express,nodejs,ansible,terraform,aws,kubernetes,docker,githubactions,tailwind,postman,vite,postgres,mongo,redis,prometheus,grafana,ansible,terraform&perline=10)](https://skillicons.dev)
 
 <!--
 **Vchen7629/Vchen7629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
