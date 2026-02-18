@@ -8,6 +8,7 @@
 - ⚡ Fun fact **I am from the Bay Area!**
 
 ## Experience
+- Industry Partnership with Sandisk as a Full-Stack Engineer
 - Project Lead at Google Developer Group (UC Merced)
 ## Cool Stats!
 
