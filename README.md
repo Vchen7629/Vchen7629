@@ -8,9 +8,9 @@
 - ⚡ Fun fact **I am from the Bay Area!**
 
 ## Experience
-- Incoming SWE intern at IBM
-- Industry Partnership with Sandisk as a Full-Stack Engineer
-- Project Lead at Google Developer Group (UC Merced)
+- Incoming SWE intern @ IBM
+- Full-Stack Engineer @ Sandisk
+- Project Lead @ Google Developer Group (UC Merced)
 ## Cool Stats!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vchen7629&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="vchen7629" /></p>
