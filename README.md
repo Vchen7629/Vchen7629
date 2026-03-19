@@ -10,7 +10,7 @@
 ## Experience
 - Incoming SWE intern @ IBM
 - Full-Stack Engineer @ Sandisk
-- Project Lead @ Google Developer Group (UC Merced)
+- Project Lead @ Google Developer Group
 ## Cool Stats!
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vchen7629&show_icons=true&locale=en&layout=compact&theme=cobalt&hide_border=true" alt="vchen7629" /></p>
