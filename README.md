@@ -3,11 +3,12 @@
 ## About Me!
 
 - 🔭 I’m currently working on [Cyphria](https://github.com/Vchen7629/Cyphria)
-- 🌱 I’m currently learning **Kubernetes, Airflow, Spark, NLP (Natural Language Processing)**
+- 🌱 I’m currently learning **Kubernetes, Golang, NLP (Natural Language Processing)**
 -  📫 How to reach me **chenvincent7629@gmail.com**
 - ⚡ Fun fact **I am from the Bay Area!**
 
 ## Experience
+- Incoming SWE intern at IBM
 - Industry Partnership with Sandisk as a Full-Stack Engineer
 - Project Lead at Google Developer Group (UC Merced)
 ## Cool Stats!
