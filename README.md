@@ -2,8 +2,8 @@
 
 ## About Me!
 
-- 🔭 I’m currently working on [Cyphria](https://github.com/Vchen7629/Cyphria)
-- 🌱 I’m currently learning **Kubernetes, Golang, NLP (Natural Language Processing)**
+- 🔭 I’m currently working on [Splice](https://github.com/Vchen7629/Splice)
+- 🌱 I’m currently learning **Ffmpeg, Golang, Nats + Jetstream**
 -  📫 How to reach me **chenvincent7629@gmail.com**
 - ⚡ Fun fact **I am from the Bay Area!**
 
