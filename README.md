@@ -9,7 +9,7 @@
 
 ## Experience
 - Incoming SWE intern @ IBM
-- Full-Stack Engineer @ Sandisk
+- Full-Stack Engineer intern @ Sandisk
 - Project Lead @ Google Developer Group
 ## Cool Stats!
 
