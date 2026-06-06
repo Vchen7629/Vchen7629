@@ -2,7 +2,7 @@
 
 ## About Me!
 
-- 🔭 I’m currently working on [Splice](https://github.com/Vchen7629/Splice)
+- 🔭 I’m currently contributing to opensource [OpenRAG](https://github.com/langflow-ai/openrag)
 - 🌱 I’m currently learning **Ffmpeg, Golang, Nats + Jetstream**
 -  📫 How to reach me **chenvincent7629@gmail.com**
 - ⚡ Fun fact **I am from the Bay Area!**
