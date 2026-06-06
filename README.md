@@ -8,7 +8,7 @@
 - ⚡ Fun fact **I am from the Bay Area!**
 
 ## Experience
-- Incoming SWE intern @ IBM
+- SDE intern @ IBM watsonx.data
 - Full-Stack Engineer intern @ Sandisk
 - Project Lead @ Google Developer Group
 ## Cool Stats!
